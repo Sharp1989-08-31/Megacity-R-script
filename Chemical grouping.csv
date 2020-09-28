@@ -1,0 +1,52 @@
+Compound,Grouping,Category
+As,Trace Elements,Trace Elements
+Cd,Trace Elements,Trace Elements
+Pb,Trace Elements,Trace Elements
+Hg,Trace Elements,Trace Elements
+Se,Trace Elements,Trace Elements
+"1,2-benzonaphtothiophene",AHET,Alkylated PACs
+"1,7-Dimethylphenanthrene",ALMW,Alkylated PACs
+"1,8-Dimethylphenanthrene",ALMW,Alkylated PACs
+1-Methylnaphthalene,ALMW,Alkylated PACs
+1-Methylphenanthrene,ALMW,Alkylated PACs
+"2,3-benzonaphtothiophene",AHET,Alkylated PACs
+"2,6-Dimethylphenanthrene",ALMW,Alkylated PACs
+2-Methylnaphthalene,ALMW,Alkylated PACs
+2-Methylphenanthrene,ALMW,Alkylated PACs
+"3,6-Dimethylphenanthrene",ALMW,Alkylated PACs
+3-Methylphenanthrene,ALMW,Alkylated PACs
+9/4-Methylphenanthrene,ALMW,Alkylated PACs
+Acenapthene,PLMW,Parent PACs
+Acenapthylene,PLMW,Parent PACs
+Anthracene,PLMW,Parent PACs
+Benz[a]anthracene,PHMW,Parent PACs
+Benzo[a]pyrene,PHMW,Parent PACs
+Benzo[b]fluoranthene,PHMW,Parent PACs
+"Benzo[g,h,i]perylene",PHMW,Parent PACs
+Benzo[k]fluoranthene,PHMW,Parent PACs
+C1 Benzo[a]pyrene,AHMW,Alkylated PACs
+C1 Chrysene,AHMW,Alkylated PACs
+C1 Dibenzothiophene,AHET,Alkylated PACs
+C1 Fluorene,ALMW,Alkylated PACs
+C1 Pyrene,AHMW,Alkylated PACs
+C2 Dibenzothiophene,AHET,Alkylated PACs
+C2 Fluorene,ALMW,Alkylated PACs
+C2 Naphthalene,ALMW,Alkylated PACs
+C2 Phenanthrene,ALMW,Alkylated PACs
+C2 Pyrene,AHMW,Alkylated PACs
+C3 Chrysene,AHMW,Alkylated PACs
+C3 Dibenzothiophene,AHET,Alkylated PACs
+C3 Naphthalene,ALMW,Alkylated PACs
+C3 Phenanthrene,ALMW,Alkylated PACs
+C4 Naphthalene,ALMW,Alkylated PACs
+C4 Phenanthrene,ALMW,Alkylated PACs
+Chrysene,PHMW,Parent PACs
+"Dibenzo[a,h]anthracene",PHMW,Parent PACs
+Dibenzothiophene,PHET,Parent PACs
+Fluoranthene,PHMW,Parent PACs
+Fluorene,PLMW,Parent PACs
+"Indeno[1,2,3-c,d]pyrene",PHMW,Parent PACs
+Naphthalene,PLMW,Parent PACs
+Phenanthrene,PLMW,Parent PACs
+Pyrene,PHMW,Parent PACs
+Retene,ALMW,Alkylated PACs

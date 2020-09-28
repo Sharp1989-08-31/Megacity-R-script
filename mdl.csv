@@ -1,0 +1,52 @@
+chemical,MDL
+As,0.01
+Cd,0.002
+Hg,0.01
+Pb,0.005
+Se,0.01
+"1,2-benzonaphtothiophene",0.434037583
+"1,7-Dimethylphenanthrene",0.301422494
+"1,8-Dimethylphenanthrene",0.301422494
+1-Methylnaphthalene,0.570292593
+1-Methylphenanthrene,0.322179395
+"2,3-benzonaphtothiophene",0.434037583
+"2,6-Dimethylphenanthrene",0.301422494
+2-Methylnaphthalene,0.567804729
+2-Methylphenanthrene,0.329612767
+"3,6-Dimethylphenanthrene",0.301422494
+3-Methylphenanthrene,0.333772573
+9/4-Methylphenanthrene,0.295526428
+Acenapthene,0.673819426
+Acenapthylene,0.563977062
+Anthracene,0.434037583
+Benz[a]anthracene,0.590159342
+Benzo[a]pyrene,0.548949446
+Benzo[b]fluoranthene,0.295537913
+"Benzo[g,h,i]perylene",0.326813783
+Benzo[k]fluoranthene,0.438864395
+C1 Benzo[a]pyrene,0.548949446
+C1 Chrysene,0.333770261
+C1 Dibenzothiophene,0.434037583
+C1 Fluorene,0.347797695
+C1 Pyrene,0.264817581
+C2 Dibenzothiophene,0.434037583
+C2 Fluorene,0.347797695
+C2 Naphthalene,0.508359843
+C2 Phenanthrene,0.301422494
+C2 Pyrene,0.453746156
+C3 Chrysene,0.790499474
+C3 Dibenzothiophene,0.434037583
+C3 Naphthalene,0.443731828
+C3 Phenanthrene,0.76045723
+C4 Naphthalene,0.388575057
+C4 Phenanthrene,0.76045723
+Chrysene,0.790499474
+"Dibenzo[a,h]anthracene",0.458365799
+Dibenzothiophene,0.434037583
+Fluoranthene,0.52497426
+Fluorene,0.347797695
+"Indeno[1,2,3-c,d]pyrene",1.133238846
+Naphthalene,0.27743428
+Phenanthrene,0.76045723
+Pyrene,0.453746156
+Retene,0.76045723
